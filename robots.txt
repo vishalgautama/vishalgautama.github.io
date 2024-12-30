@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MatousE.github.io/sitemap.xml
+Sitemap: https://vishalgautama.github.io/sitemap.xml
