@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student | The Francis Crick Institute, The Institute for Cancer Research, Imperial College London
+subtitle: Masters Student | Kevin T. Crofton Department of Aerospace and Ocean Engineering, Virginia Tech
 
 profile:
   align: right
@@ -15,8 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a first-year Convergence Science PhD student funded by Cancer Research UK, based at the Francis Crick 
-Institute and Imperial College London. Working under the guidance of Prof. Samra Turajilic and Dr. Guang Yang,
-my research focuses on developing artificial intelligence models to analyse haematoxylin and eosin (H&E) whole 
-slide images from the TRACERx Renal cohort. By automating this analysis, my goal is to facilitate downstream 
-investigations into the tumor microenvironment of renal cancer carcinoma.
+I am a first-year Aerospace Engineering Masters student at the Aerospace Department of Virginia Tech. Currently looking for advisors to to pursue my research focusing on developing advance and intelligence propulsion system for the next generation of aircraft. I am a former aerospace engineer with experience in designing large to medium sized unmanned aerial vehicles and air-taxi.
+At the age of eight (2005), I began my aeronautics journey with my first RC plane, a Fiesler Storch. In my Aerospace Engineering undergrad at UPES, I designed the recovery system for a sounding rocket that represented India, reaching an altitude of 10,000 feet in the 2017 international competition by Spaceport America and ESRA in the United States. I’m experienced in designing propulsion system for advance hybrid and electric Unmanned Aerial Systems in my role at VTOL Aviation India. Currently I’m working on the
+design and development of a six-seater VTOL air taxi. My specializations lies in Fluid Mechanics, Flight Mechanics, Thermodynamics and Electro-mechanical systems development.
+My academic interests are Adaptive, Autonomous and Nonlinear Control for Intelligent Propulsion Systems.
