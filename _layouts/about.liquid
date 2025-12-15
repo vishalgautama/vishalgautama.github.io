@@ -25,8 +25,7 @@ layout: default
             {% assign profile_image_class = 'img-fluid z-depth-1
       rounded' %}
           {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
+          {% capture sizes %}(min-width: {{site.profile}}) {{ site.max_width | minus: 150 | times: 0.1 }}px, (min-width: 576px) 25vw, 80vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
@@ -39,6 +38,7 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+    <br>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
@@ -48,6 +48,8 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <br>
+
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
@@ -55,6 +57,8 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
+
+    <br>
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
@@ -64,6 +68,8 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <br>
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
@@ -71,6 +77,10 @@ layout: default
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
+    {% endif %}
+
+    {% if site.newsletter.enabled and site.footer_fixed %}
+      {% include scripts/newsletter.liquid center=true %}
     {% endif %}
   </article>
 </div>
