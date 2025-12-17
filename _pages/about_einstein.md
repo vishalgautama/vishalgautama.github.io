@@ -31,7 +31,7 @@ I completed my undergraduate studies at [UPES](https://www.upes.ac.in/) in India
 <a href="https://drive.google.com/file/d/1s06xJRZtrX1dUDSHuuPl8_IpoCuC5WjX/view?usp=sharing">CV</a> &nbsp;/&nbsp;
 <a href="https://github.com/vishalgautama">GitHub</a> &nbsp;/&nbsp;
 <a href="https://scholar.google.com/citations?user=FOELh0YAAAAJ&hl=en&inst=13410158990364976897">Google Scholar</a> &nbsp;/&nbsp;
-<a href="https://www.linkedin.com/in/vishalgtam">LinkedIn</a> &nbsp;/&nbsp;
+<a href="https://www.linkedin.com/in/vishalgautama">LinkedIn</a> &nbsp;/&nbsp;
 <a href="https://x.com/vroonvishal">X</a>
 
 
