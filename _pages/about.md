@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in Aerospace Engineering at [Virginia Tech](https://www.vt.edu/) and a member of the [Nonlinear Systems Laboratory](https://nsl.vt.edu/). My work focuses on adaptive control, nonlinear systems, and six degree of freedom modeling and simulation, with applications to propulsion and hardware based testing.
+I am a graduate student in Aerospace Engineering at [Virginia Tech](https://www.vt.edu/) and a member of the [Nonlinear Systems Laboratory](https://nsl.aoe.vt.edu/). My work focuses on adaptive control, nonlinear systems, and six degree of freedom modeling and simulation, with applications to propulsion and hardware based testing.
 
 I completed my undergraduate studies at [UPES](https://www.upes.ac.in/) in India and worked on eVTOL and multirotor aircraft systems at [VTOL Aviation India](https://www.vtolaviations.com/), primarily on propulsion and flight related development. That work involved hands on design, integration, and testing, and continues to inform how I approach modeling and control of real systems.
 
