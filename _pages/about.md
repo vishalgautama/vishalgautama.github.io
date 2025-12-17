@@ -18,28 +18,29 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a 1st year PhD student at MIT EECS, working on AI and robotics.
+I am a graduate student in Aerospace Engineering at [Virginia Tech](https://www.vt.edu/) and a member of the [Nonlinear Systems Laboratory](https://nsl.vt.edu/). My work focuses on adaptive control, nonlinear systems, and six degree of freedom modeling and simulation, with applications to propulsion and hardware based testing.
 
-I did my MS with [Zac Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) as a member of the [Robotic Exploration Lab](http://roboticexplorationlab.org/) at the Robotics Institute, CMU.  In the summer of 2023, I was a Robotics Student Fellow at the [Robotic Systems Lab](https://rsl.ethz.ch/) at ETH Zurich. I did my [BS in Control Engineering and Automation--Talent Program](https://seee.hust.edu.vn/en_US/talented) at [Hanoi University of Science and Technology](https://en.hust.edu.vn/).
+I completed my undergraduate studies at [UPES](https://www.upes.ac.in/) in India and worked on eVTOL and multirotor aircraft systems at [VTOL Aviation India](https://www.vtolaviations.com/), primarily on propulsion and flight related development. That work involved hands on design, integration, and testing, and continues to inform how I approach modeling and control of real systems.
+
 
 <!-- I am a [Vingroup Scholar](https://scholarships.vinuni.edu.vn/) with the mission to lead and advance the development of science and technology in Vietnam in the future. -->
 
 <!-- I have ~2 years of experience in autopilot systems with Viettel Aerospace Institute. -->
 
-<a href="mailto:khain@mit.edu">Email</a> &nbsp;/&nbsp;
-<a href="https://drive.google.com/file/d/1h6jF4Dgg-vmGOYAiaJvk4r16yz5SKjoz/view?usp=sharing">CV</a> &nbsp;/&nbsp;
-<a href="https://github.com/xkhainguyen">GitHub</a> &nbsp;/&nbsp;
-<a href="https://scholar.google.com/citations?user=ex03GKkAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
-<a href="https://www.linkedin.com/in/khainx">LinkedIn</a> &nbsp;/&nbsp;
-<a href="https://x.com/khainguyenx">X</a>
+<a href="mailto:vishalgautam@vt.edu">Email</a> &nbsp;/&nbsp;
+<a href="https://drive.google.com/file/d/1s06xJRZtrX1dUDSHuuPl8_IpoCuC5WjX/view?usp=sharing">CV</a> &nbsp;/&nbsp;
+<a href="https://github.com/vishalgautama">GitHub</a> &nbsp;/&nbsp;
+<a href="https://scholar.google.com/citations?user=FOELh0YAAAAJ&hl=en&inst=13410158990364976897">Google Scholar</a> &nbsp;/&nbsp;
+<a href="https://www.linkedin.com/in/vishalgtam">LinkedIn</a> &nbsp;/&nbsp;
+<a href="https://x.com/vroonvishal">X</a>
 
 
 <br>
 
 <h2>research</h2>
 
-I am driven by elegant solution methods in robot learning and control that target high performance, safety guarantees, data efficiency, and robust generalization—key milestones toward embodied intelligence.
+I am interested in solution methods that are precise and well structured, especially in control problems where performance, stability, and safety matter in practice. I care about approaches that remain usable under constraints, limited data, and imperfect models.
 
-I am open to exploring various theoretical and practical aspects of robotics, drawing on my background in control theory, differentiable optimization, and machine learning.
+I am open to working on both theoretical and applied problems, particularly where control theory, nonlinear systems, and optimization connect to real hardware and testing.
 
 <!-- **<span style="color:coral">I am seeking PhD positions beginning Fall 2025!</span>** -->

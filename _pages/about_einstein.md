@@ -18,28 +18,29 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I graduated from the [MS in Mechanical Engineering--Research](https://www.meche.engineering.cmu.edu/education/graduate-programs/masters-research.html) program at Carnegie Mellon Univeristy. I was advised by [Zac Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) as a member of the [Robotic Exploration Lab](http://roboticexplorationlab.org/), in the Robotics Institute. I worked with [Jesus Tordesillas](http://www.mit.edu/~jtorde/) and [Marco Hutter](https://rsl.ethz.ch/the-lab/people.html) in the [Robotic Systems Lab](https://rsl.ethz.ch/), ETH Zurich within the Robotics Student Fellowship.
+I am a graduate student in Aerospace Engineering at [Virginia Tech](https://www.vt.edu/) and a member of the [Nonlinear Systems Laboratory](https://nsl.vt.edu/). My work focuses on adaptive control, nonlinear systems, and six degree of freedom modeling and simulation, with applications to propulsion and hardware based testing.
+
+I completed my undergraduate studies at [UPES](https://www.upes.ac.in/) in India and worked on eVTOL and multirotor aircraft systems at [VTOL Aviation India](https://www.vtolaviations.com/), primarily on propulsion and flight related development. That work involved hands on design, integration, and testing, and continues to inform how I approach modeling and control of real systems.
+
 
 <!-- I am a [Vingroup Scholar](https://scholarships.vinuni.edu.vn/) with the mission to lead and advance the development of science and technology in Vietnam in the future. -->
 
-Previously, I graduated with a [BS in Control Engineering and Automation--Talent Program](https://seee.hust.edu.vn/en_US/talented) from [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/). I have ~2 years of experience in autopilot systems with Viettel Aerospace Institute.
+<!-- I have ~2 years of experience in autopilot systems with Viettel Aerospace Institute. -->
 
-<p style="text-align:center">
-  <a href="mailto:khai.nx1201@gmail.com">Email</a> &nbsp;/&nbsp;
-  <a href="../assets/pdf/CV_Khai.pdf">CV</a> &nbsp;/&nbsp;
-  <!-- <a href="data/JonBarron-bio.txt">Bio</a> &nbsp;/&nbsp; -->
-  <a href="https://scholar.google.com/citations?user=ex03GKkAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
-  <a href="https://www.linkedin.com/in/khainx">LinkedIn</a> &nbsp;/&nbsp;
-  <a href="https://x.com/khainguyenx">X</a> &nbsp;/&nbsp;
-  GitHub
-</p>
+<a href="mailto:vishalgautam@vt.edu">Email</a> &nbsp;/&nbsp;
+<a href="https://drive.google.com/file/d/1s06xJRZtrX1dUDSHuuPl8_IpoCuC5WjX/view?usp=sharing">CV</a> &nbsp;/&nbsp;
+<a href="https://github.com/vishalgautama">GitHub</a> &nbsp;/&nbsp;
+<a href="https://scholar.google.com/citations?user=FOELh0YAAAAJ&hl=en&inst=13410158990364976897">Google Scholar</a> &nbsp;/&nbsp;
+<a href="https://www.linkedin.com/in/vishalgtam">LinkedIn</a> &nbsp;/&nbsp;
+<a href="https://x.com/vroonvishal">X</a>
 
-My primary GitHub account (@xkhainguyen) is temporarily unavailable.
 
 <br>
 
 <h2>research</h2>
 
-My PhD goal is to address fundamental robotics problems where I can **(i) leverage structure for efficient and generalizable modeling and decision-making**, e.g. contact-rich manipulation, and <strong>(ii) close the loop between offline design and online adaptation</strong>, e.g. sim<->real. I am driven by structured scaling for robot learning to enable data efficiency, high performance, and out-of-distribution generalization—key steps toward achieving embodied intelligence
+I am interested in solution methods that are precise and well structured, especially in control problems where performance, stability, and safety matter in practice. I care about approaches that remain usable under constraints, limited data, and imperfect models.
 
-<strong><span style="color:tomato">I am seeking PhD positions beginning Fall 2025!</span></strong>
+I am open to working on both theoretical and applied problems, particularly where control theory, nonlinear systems, and optimization connect to real hardware and testing.
+
+<!-- **<span style="color:coral">I am seeking PhD positions beginning Fall 2025!</span>** -->
