@@ -5,7 +5,7 @@ title: publications
 description: publications by categories in reversed chronological order <br> *equal contribution
 years1: [2025, 2024, 2023, 2021]
 years2: [2025, 2024, 2021, 2020]
-nav: true
+nav: false 
 nav_order: 1
 ---
 
