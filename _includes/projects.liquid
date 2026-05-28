@@ -20,6 +20,8 @@
           alt="project thumbnail"
           class="card-img-top"
         %}
+      {% else %}
+        <div class="card-img-placeholder card-img-placeholder--{{ project.category }}"></div>
       {% endif %}
       <div class="card-body">
         <h3 class="card-title">{{ project.title }}</h3>

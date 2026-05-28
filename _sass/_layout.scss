@@ -50,4 +50,44 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
-// TODO: redefine projects layout.
+.card-img-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 160px;
+  width: 100%;
+  border-radius: 4px 4px 0 0;
+
+  &--research {
+    background: linear-gradient(135deg, #1a3a5c 0%, #2254b8 60%, #2698ba 100%);
+  }
+
+  &--industry {
+    background: linear-gradient(135deg, #7b3f00 0%, #c06000 60%, #f29105 100%);
+  }
+
+  &--other {
+    background: linear-gradient(135deg, #2d1b4e 0%, #6a1b9a 60%, #b509ac 100%);
+  }
+}
+
+.projects .card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.14);
+  }
+
+  .card-title {
+    font-size: 1rem;
+    font-weight: 600;
+  }
+
+  .card-text {
+    font-size: 0.875rem;
+    color: var(--global-text-color-light, #666);
+  }
+}
