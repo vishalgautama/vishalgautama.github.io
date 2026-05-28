@@ -2,9 +2,12 @@
 layout: page
 title: 500 lb Heavy-lift Multirotor UAV
 description: End-to-end technical ownership from motor and frame sizing through avionics integration, GNC commissioning, and first autonomous flight
+img: assets/img/personal/heavy_lift_multirotor.jpeg
 importance: 1
 category: industry
 ---
+
+{% include figure.liquid path="assets/img/personal/heavy_lift_multirotor.jpeg" class="img-fluid rounded z-depth-1" alt="500 lb heavy-lift multirotor UAV" zoomable=true %}
 
 Led the complete development of a 500 lb payload-class heavy-lift multirotor UAV at VTOL Aviation India, from initial sizing through autonomous flight operations.
 

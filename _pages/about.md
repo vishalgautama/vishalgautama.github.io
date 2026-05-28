@@ -37,7 +37,7 @@ I completed my undergraduate studies at [UPES](https://www.upes.ac.in/) in India
 
 <br>
 
-<h2>research</h2>
+<h2>Research</h2>
 
 I am interested in solution methods that are precise and well structured, especially in control problems where performance, stability, and safety matter in practice. I care about approaches that remain usable under constraints, limited data, and imperfect models.
 
@@ -47,7 +47,7 @@ I am open to working on both theoretical and applied problems, particularly wher
 
 <br>
 
-<h2>platforms</h2>
+<h2>Platforms</h2>
 
 <div class="row mt-3">
   <div class="col-sm-4 mt-3 mt-md-0">
@@ -55,7 +55,7 @@ I am open to working on both theoretical and applied problems, particularly wher
     <p class="text-center mt-1" style="font-size: 0.85rem;">DRAGON eVTOL — fixed-wing to multirotor transition</p>
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/heavy_lift_uav.jpg" class="img-fluid rounded z-depth-1" alt="Heavy-lift multirotor" zoomable=true %}
+    {% include figure.liquid path="assets/img/personal/heavy_lift_multirotor.jpeg" class="img-fluid rounded z-depth-1" alt="Heavy-lift multirotor" zoomable=true %}
     <p class="text-center mt-1" style="font-size: 0.85rem;">500 lb heavy-lift multirotor UAV</p>
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
