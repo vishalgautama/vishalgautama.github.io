@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -44,3 +44,22 @@ I am interested in solution methods that are precise and well structured, especi
 I am open to working on both theoretical and applied problems, particularly where control theory, nonlinear systems, and optimization connect to real hardware and testing.
 
 <!-- **<span style="color:coral">I am seeking PhD positions beginning Fall 2025!</span>** -->
+
+<br>
+
+<h2>platforms</h2>
+
+<div class="row mt-3">
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/dragon_evtol.jpg" class="img-fluid rounded z-depth-1" alt="DRAGON eVTOL" zoomable=true %}
+    <p class="text-center mt-1" style="font-size: 0.85rem;">DRAGON eVTOL — fixed-wing to multirotor transition</p>
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/heavy_lift_uav.jpg" class="img-fluid rounded z-depth-1" alt="Heavy-lift multirotor" zoomable=true %}
+    <p class="text-center mt-1" style="font-size: 0.85rem;">500 lb heavy-lift multirotor UAV</p>
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/propulsion_stand.jpg" class="img-fluid rounded z-depth-1" alt="Propulsion test stand" zoomable=true %}
+    <p class="text-center mt-1" style="font-size: 0.85rem;">1 kHz multi-channel propulsion test stand</p>
+  </div>
+</div>
