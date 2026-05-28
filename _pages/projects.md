@@ -3,9 +3,9 @@ layout: page
 title: projects
 permalink: /projects/
 description: take a look at what I've got involved in
-nav: false
+nav: true
 nav_order: 2
-display_categories: [lab, class, online, misc]
+display_categories: [research, industry, other]
 horizontal: false
 ---
 
