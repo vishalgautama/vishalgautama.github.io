@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
@@ -51,21 +51,21 @@ I am open to working on both theoretical and applied problems, particularly wher
 
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/personal/dragon_evtol.jpeg" class="img-fluid rounded z-depth-1" alt="DRAGON eVTOL" zoomable=true %}
+    {% include figure.liquid path="assets/img/personal/dragon_evtol.jpeg" class="platform-img rounded z-depth-1" alt="DRAGON eVTOL" zoomable=true %}
     <p class="text-center mt-1" style="font-size: 0.85rem;">DRAGON eVTOL — fixed-wing to multirotor transition</p>
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/personal/heavy_lift_multirotor.jpeg" class="img-fluid rounded z-depth-1" alt="Heavy-lift multirotor" zoomable=true %}
+    {% include figure.liquid path="assets/img/personal/heavy_lift_multirotor.jpeg" class="platform-img rounded z-depth-1" alt="Heavy-lift multirotor" zoomable=true %}
     <p class="text-center mt-1" style="font-size: 0.85rem;">500 lb heavy-lift multirotor UAV</p>
   </div>
 </div>
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/personal/large_evtol_first_successfull_flight_test.jpeg" class="img-fluid rounded z-depth-1" alt="MALE UAV first flight" zoomable=true %}
+    {% include figure.liquid path="assets/img/personal/large_evtol_first_successfull_flight_test.jpeg" class="platform-img rounded z-depth-1" alt="MALE UAV first flight" zoomable=true %}
     <p class="text-center mt-1" style="font-size: 0.85rem;">MALE — Medium Altitude Long Range UAV</p>
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/personal/hexacopter_flight_test.jpeg" class="img-fluid rounded z-depth-1" alt="Hexacopter flight test" zoomable=true %}
+    {% include figure.liquid path="assets/img/personal/hexacopter_flight_test.jpeg" class="platform-img rounded z-depth-1" alt="Hexacopter flight test" zoomable=true %}
     <p class="text-center mt-1" style="font-size: 0.85rem;">Hexacopter flight test</p>
   </div>
 </div>

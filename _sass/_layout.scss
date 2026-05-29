@@ -50,6 +50,14 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
+.platform-img {
+  height: 220px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 4px;
+}
+
 .card-img-placeholder {
   display: flex;
   align-items: center;
@@ -69,6 +77,12 @@ body.sticky-bottom-footer {
   &--other {
     background: linear-gradient(135deg, #2d1b4e 0%, #6a1b9a 60%, #b509ac 100%);
   }
+}
+
+.projects .card img.card-img-top {
+  height: 180px;
+  object-fit: cover;
+  object-position: center;
 }
 
 .projects .card {
