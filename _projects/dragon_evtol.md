@@ -2,9 +2,12 @@
 layout: page
 title: DRAGON eVTOL — Fixed-Wing to Multirotor Transition
 description: PX4 firmware modification, gain-scheduled LQR/PID transition control laws, and first demonstration of stable fixed-wing-to-multirotor flight
+img: assets/img/personal/dragon_evtol.jpeg
 importance: 2
 category: research
 ---
+
+{% include figure.liquid path="assets/img/personal/dragon_evtol.jpeg" class="img-fluid rounded z-depth-1" alt="DRAGON eVTOL" zoomable=true %}
 
 Took GNC ownership of the DRAGON eVTOL platform at Virginia Tech's Nonlinear Systems Laboratory, culminating in the platform's **first stable fixed-wing-to-multirotor transition** in flight.
 

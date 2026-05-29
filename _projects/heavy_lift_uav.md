@@ -57,10 +57,16 @@ $$
 
 where $$L(s) = C(s)G(s)$$ is the open-loop transfer function.
 
-<!-- GIF placeholder: replace path when flight animation is ready -->
-<!-- {% include figure.liquid path="assets/img/personal/heavy_lift_flight.gif" class="img-fluid rounded z-depth-1" alt="Heavy-lift UAV autonomous flight" zoomable=true %} -->
-
-*Autonomous flight footage — coming soon*
+<div class="row mt-3">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/personal/hexacopter_flight_test.jpeg" class="img-fluid rounded z-depth-1" alt="Hexacopter flight test" zoomable=true %}
+    <p class="text-center mt-1" style="font-size: 0.85rem;">Flight testing</p>
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/personal/large_evtol_first_successfull_flight_test.jpeg" class="img-fluid rounded z-depth-1" alt="First successful autonomous flight" zoomable=true %}
+    <p class="text-center mt-1" style="font-size: 0.85rem;">First successful autonomous flight</p>
+  </div>
+</div>
 
 ---
 
