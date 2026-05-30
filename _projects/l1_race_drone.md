@@ -2,7 +2,7 @@
 layout: page
 title: L1 Adaptive Control — Race Drone Testbed
 description: Custom race drone built as a high-bandwidth hardware testbed for validating L1 adaptive augmentation on a real agile platform
-img: assets/img/personal/parts_assembeled_for_l1_adaptive_controller_race_drone.jpeg
+img: assets/projects/L1_Adaptive_fault_tolerant_controller_implementation.gif
 importance: 4
 category: research
 ---
