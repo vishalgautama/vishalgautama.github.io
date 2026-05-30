@@ -2,12 +2,9 @@
 layout: page
 title: ROS 2 GNC Middleware with EKF Sensor Fusion
 description: Low-latency C++/Python ROS 2 middleware for time-synchronized multi-sensor acquisition with Extended Kalman Filter state estimation
-img: assets/img/personal/scratch_built_autopilot.jpeg
 importance: 3
 category: research
 ---
-
-{% include figure.liquid path="assets/img/personal/scratch_built_autopilot.jpeg" class="img-fluid rounded z-depth-1" alt="Scratch-built autopilot hardware" zoomable=true %}
 
 Designed and implemented a low-latency ROS 2 middleware stack for onboard GNC on a UAV platform, delivering real-time state estimates to the control loop via Extended Kalman Filter sensor fusion.
 
