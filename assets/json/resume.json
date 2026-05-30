@@ -34,7 +34,7 @@
       "summary": "Research in adaptive control, nonlinear systems, and 6-DOF simulation with applications to eVTOL and multirotor flight.",
       "highlights": [
         "Architected a 6-DOF nonlinear simulation in MATLAB/Simulink coupling rigid body dynamics, SO(3) kinematics, quaternion representations, blade-element momentum theory, and aerodynamic models; validated through Lyapunov stability analysis, Monte Carlo robustness studies, and flight testing.",
-        "Implemented adaptive control architectures — MRAC, L1 Adaptive, LPV, and Geometric controllers alongside LQR and H-infinity designs — applying system identification data to develop fault-tolerant control allocation strategies under actuator failures.",
+        "Implemented adaptive control architectures: MRAC, L1 Adaptive, LPV, and Geometric controllers alongside LQR and H-infinity designs, applying system identification data to develop fault-tolerant control allocation strategies under actuator failures.",
         "Designed low-latency C++/Python ROS 2 middleware for time-synchronized multi-sensor acquisition across GPS and IMU sensors, integrating Extended Kalman Filter-based sensor fusion for accurate state estimation in closed-loop GNC.",
         "Doubled platform flight endurance through simulation-driven performance analysis informing motor reselection, battery reconfiguration, and ESC firmware tuning, validated through before-and-after flight test comparison.",
         "Took GNC ownership of the DRAGON eVTOL: modified PX4 autopilot firmware in C++, designed gain-scheduled LQR and PID transition control laws with path-planning logic, and demonstrated the platform's first stable fixed-wing-to-multirotor transition."
