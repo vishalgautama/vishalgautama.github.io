@@ -50,6 +50,67 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
+// Journal
+.journal-feed {
+  margin-top: 1.5rem;
+}
+
+.journal-entry {
+  display: flex;
+  gap: 2rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--global-divider-color, #e0e0e0);
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.journal-date {
+  flex-shrink: 0;
+  width: 64px;
+  text-align: right;
+  padding-top: 0.1rem;
+
+  .journal-day {
+    display: block;
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1;
+    color: var(--global-text-color);
+  }
+
+  .journal-month {
+    display: block;
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light, #888);
+    line-height: 1.4;
+    margin-top: 0.25rem;
+  }
+
+  .journal-time {
+    display: block;
+    font-size: 0.6rem;
+    color: var(--global-text-color-light, #888);
+    margin-top: 0.2rem;
+  }
+}
+
+.journal-body {
+  flex: 1;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--global-text-color);
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Journal page
 .platform-img {
   height: 220px;
   width: 100%;

@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <article>
+    {% assign entries = site.journal | sort: "date" | reverse %}
+    {% if entries.size == 0 %}
+      <p style="color: var(--global-text-color-light);">No entries yet.</p>
+    {% endif %}
+    <div class="journal-feed">
+      {% for entry in entries %}
+        <div class="journal-entry">
+          <div class="journal-date">
+            <span class="journal-day">{{ entry.date | date: "%-d" }}</span>
+            <span class="journal-month">{{ entry.date | date: "%b" | upcase }}<br>{{ entry.date | date: "%Y" }}</span>
+            <span class="journal-time">{{ entry.date | date: "%-I:%M%p" | downcase }}</span>
+          </div>
+          <div class="journal-body">
+            {{ entry.content }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </article>
+</div>
