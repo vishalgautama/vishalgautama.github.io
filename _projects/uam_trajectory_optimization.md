@@ -2,6 +2,7 @@
 layout: page
 title: Numerical Optimal Control of a UAM Vehicle
 description: Hermite-Simpson direct collocation with projected gradient descent for trajectory optimization of a full 12-state nonlinear quadrotor model — AOE 5404, Spring 2025
+img: assets/projects/uam_animation.gif
 importance: 1
 category: research
 related_publications: false
@@ -10,6 +11,8 @@ related_publications: false
 <a href="/assets/projects/Numerical_optimal_control.pdf" target="_blank" class="btn btn-sm z-depth-1" role="button" style="background-color: var(--global-theme-color); color: white; margin-bottom: 1.5rem;">
   <i class="fa-regular fa-file-pdf"></i> &nbsp; View Full Report
 </a>
+
+{% include figure.liquid path="assets/projects/uam_animation.gif" class="img-fluid rounded z-depth-1" alt="UAM optimal trajectory animation" zoomable=true %}
 
 Implemented a numerical optimal control framework for an Urban Air Mobility (UAM) vehicle using the **Hermite-Simpson direct collocation** method, transcribing the continuous-time trajectory optimization problem into a finite-dimensional nonlinear program solved via projected gradient descent.
 
