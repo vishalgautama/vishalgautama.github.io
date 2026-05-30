@@ -10,13 +10,17 @@ category: research
 Built a custom race drone from scratch as a hardware testbed for validating L1 adaptive control on a highly agile, lightweight platform with significant model uncertainty.
 
 <div class="row mt-3">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/personal/parts_scattered_for_l1_adaptive_controller_race_drone.jpeg" class="img-fluid rounded z-depth-1" alt="Race drone components" zoomable=true %}
     <p class="text-center mt-1" style="font-size: 0.85rem;">Components selected and staged for assembly</p>
   </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/personal/parts_assembeled_for_l1_adaptive_controller_race_drone.jpeg" class="img-fluid rounded z-depth-1" alt="Race drone assembled" zoomable=true %}
     <p class="text-center mt-1" style="font-size: 0.85rem;">Platform assembled and ready for integration</p>
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/L1_adaptive_render.png" class="img-fluid rounded z-depth-1" alt="L1 adaptive control render" zoomable=true %}
+    <p class="text-center mt-1" style="font-size: 0.85rem;">CAD render</p>
   </div>
 </div>
 
