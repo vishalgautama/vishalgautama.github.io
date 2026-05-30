@@ -28,7 +28,7 @@ I completed my undergraduate studies at [UPES](https://www.upes.ac.in/) in India
 <!-- I have ~2 years of experience in autopilot systems with Viettel Aerospace Institute. -->
 
 <a href="mailto:vishalgautam@vt.edu">Email</a> &nbsp;/&nbsp;
-<a href="https://drive.google.com/file/d/1s06xJRZtrX1dUDSHuuPl8_IpoCuC5WjX/view?usp=sharing">CV</a> &nbsp;/&nbsp;
+<a href="/assets/pdf/Vishal_Gautam_CV.pdf" target="_blank">CV</a> &nbsp;/&nbsp;
 <a href="https://github.com/vishalgautama">GitHub</a> &nbsp;/&nbsp;
 <a href="https://scholar.google.com/citations?user=FOELh0YAAAAJ&hl=en&inst=13410158990364976897">Google Scholar</a> &nbsp;/&nbsp;
 <a href="https://www.linkedin.com/in/vishalgautama">LinkedIn</a> &nbsp;/&nbsp;
